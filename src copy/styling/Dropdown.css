@@ -1,0 +1,13 @@
+.dropdown {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dropdown label {
+    margin-bottom: 0.5rem;
+  }
+  
+  .dropdown select {
+    padding: 0.5rem;
+  }
+  
